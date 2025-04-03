@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+newenv/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyd
+.Python
+db.sqlite3
+media/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
